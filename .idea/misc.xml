@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mertcansucuobs/app/src/main/res/drawable-anydpi/ic_action_a1.xml" value="0.1" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/drawable/arkaplan.xml" value="0.334" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_kayitol.xml" value="0.25" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_kayitol_ogr_uye.xml" value="0.30117753623188404" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_kayitol_ogretim.xml" value="0.16759776536312848" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_main.xml" value="0.3465346534653465" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_ogrenciekrani.xml" value="0.22" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_ogrencisifreyenileme.xml" value="0.25" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_ogretim_giris.xml" value="0.25" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_ogretimgorevlisi.xml" value="0.1" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_ogretimgorevlisiekrani.xml" value="0.1762917933130699" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_ogretimgorevlisikayit.xml" value="0.33" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_ogretimsifreyenileme.xml" value="0.1" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_yonetici_giris.xml" value="0.33" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/activity_yoneticiekrani.xml" value="0.15" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/custom_row_edit.xml" value="0.22" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ders_gorunteleme_ekleme.xml" value="0.1" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_duyurular.xml" value="0.2513586956521739" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogrenci_derslistesi.xml" value="0.18" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogrenci_duyurular.xml" value="0.22" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogrenci_notlar.xml" value="0.22" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogrenci_onayi.xml" value="0.18" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogrenci_uygulama_hakkinda.xml" value="0.1" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogrenci_yemek_listesi.xml" value="0.18" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogretim.xml" value="0.22" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogretim_derslistesi.xml" value="0.18" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogretim_duyurular.xml" value="0.18" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogretim_ogrencinotlar.xml" value="0.25" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogretim_onayi.xml" value="0.2513586956521739" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogretim_uygulamahakkinda.xml" value="0.25" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_ogretim_yemeklistesi.xml" value="0.18" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_uygulama_hakkinda.xml" value="0.2513586956521739" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/fragment_yemek_listesi.xml" value="0.2513586956521739" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/navigation_baslik_ogrenci.xml" value="0.18" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/navigation_baslik_ogretim.xml" value="0.15" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/layout/navigation_baslik_yonetici.xml" value="0.25" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/menu/ogrencimenu_nav.xml" value="0.22" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/menu/ogretimuyemenu.xml" value="0.25" />
+        <entry key="..\:/mertcansucuobs/app/src/main/res/menu/yoneticimenu_nav.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

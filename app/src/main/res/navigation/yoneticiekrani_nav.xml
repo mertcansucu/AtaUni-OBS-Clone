@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/yoneticiekrani_nav"
+    app:startDestination="@id/dersGoruntelemeEklemeFragment">
+
+    <fragment
+        android:id="@+id/dersGoruntelemeEklemeFragment"
+        android:name="com.mertcansucu.mertcansucuobs.DersGoruntelemeEklemeFragment"
+        android:label="fragment_ders_gorunteleme_ekleme"
+        tools:layout="@layout/fragment_ders_gorunteleme_ekleme" />
+    <fragment
+        android:id="@+id/ogrenciOnayiFragment"
+        android:name="com.mertcansucu.mertcansucuobs.OgrenciOnayiFragment"
+        android:label="fragment_ogrenci_onayi"
+        tools:layout="@layout/fragment_ogrenci_onayi" />
+    <fragment
+        android:id="@+id/ogretim_onayiFragment"
+        android:name="com.mertcansucu.mertcansucuobs.ogretim_onayiFragment"
+        android:label="fragment_ogretim_onayi"
+        tools:layout="@layout/fragment_ogretim_onayi" />
+    <fragment
+        android:id="@+id/yemek_listesiFragment"
+        android:name="com.mertcansucu.mertcansucuobs.yemek_listesiFragment"
+        android:label="fragment_yemek_listesi"
+        tools:layout="@layout/fragment_yemek_listesi" />
+    <fragment
+        android:id="@+id/duyurularFragment"
+        android:name="com.mertcansucu.mertcansucuobs.duyurularFragment"
+        android:label="fragment_duyurular"
+        tools:layout="@layout/fragment_duyurular" />
+    <fragment
+        android:id="@+id/uygulama_hakkindaFragment"
+        android:name="com.mertcansucu.mertcansucuobs.uygulama_hakkindaFragment"
+        android:label="fragment_uygulama_hakkinda"
+        tools:layout="@layout/fragment_uygulama_hakkinda" />
+    <activity
+        android:id="@+id/yonetici_giris"
+        android:name="com.mertcansucu.mertcansucuobs.yonetici_giris"
+        android:label="yonetici_giris" />
+</navigation>

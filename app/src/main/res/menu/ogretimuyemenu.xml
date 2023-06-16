@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ogretim_duyurular"
+        android:title="Duyurular" />
+    <item
+        android:id="@+id/ogretim_derslistesi"
+        android:title="Ders Listesi" />
+    <item
+        android:id="@+id/ogretim_ogrencinotlar"
+        android:title="Öğrenci Notlar" />
+    <item
+        android:id="@+id/ogretim_yemeklistesi"
+        android:title="Yemek Listesi" />
+    <item
+        android:id="@+id/ogretim_uygulamahakkinda"
+        android:title="Uygulama Hakkında" />
+    <item
+        android:id="@+id/ogretim_giris"
+        android:title="Çıkış Yap" />
+</menu>

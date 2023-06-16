@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#292559"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/buttonKayitYap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginBottom="60dp"
+        android:background="@null"
+        android:backgroundTint="@color/white"
+        android:text="Kayıt Ol"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="148dp"
+        android:layout_height="134dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/ataturk_logo" />
+
+    <EditText
+        android:id="@+id/editTextTcKayit"
+
+
+        android:layout_width="383dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="240dp"
+        android:background="@drawable/arkaplan"
+        android:drawableLeft="@drawable/account1"
+        android:ems="10"
+        android:hint="Öğrencinin TC Kimlik No Giriniz"
+        android:inputType="number"
+        android:textColorHint="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextUnvanKayit"
+
+
+        android:layout_width="383dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/arkaplan"
+        android:drawableLeft="@drawable/account1"
+        android:ems="10"
+        android:hint="Ünvan Giriniz"
+
+        android:textColorHint="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextEmailKayit" />
+
+    <EditText
+        android:id="@+id/editTextEmailKayit"
+
+
+        android:layout_width="383dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/arkaplan"
+        android:drawableLeft="@drawable/account1"
+        android:ems="10"
+        android:hint="Emai Adresi Giriniz"
+
+        android:textColorHint="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTelefonKayit" />
+
+    <EditText
+        android:id="@+id/editTextTelefonKayit"
+
+
+        android:layout_width="383dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/arkaplan"
+        android:drawableLeft="@drawable/account1"
+        android:ems="10"
+        android:hint="Telefon Numarası Giriniz"
+        android:inputType="number"
+        android:textColorHint="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editAdSoyadKayit" />
+
+    <EditText
+        android:id="@+id/editAdSoyadKayit"
+
+
+        android:layout_width="383dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/arkaplan"
+        android:drawableLeft="@drawable/account1"
+        android:ems="10"
+        android:hint="Ad Soyad Giriniz"
+
+        android:textColorHint="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTcKayit" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="100dp"
+        android:layout_height="32dp"
+        android:layout_marginBottom="8dp"
+        android:text="Kayıt Ol"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toTopOf="@+id/editTextTcKayit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

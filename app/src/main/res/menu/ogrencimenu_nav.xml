@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ogrenci_duyurularFragment"
+        android:title="Duyurular" />
+    <item
+        android:id="@+id/ogrenci_derslistesiFragment"
+        android:title="Ders Listesi" />
+    <item
+        android:id="@+id/ogrenci_notlarFragment"
+        android:title="Notlar" />
+    <item
+        android:id="@+id/ogrenci_yemek_listesiFragment"
+        android:title="Yemek Listesi" />
+    <item
+        android:id="@+id/ogrenci_uygulama_hakkindaFragment"
+        android:title="Uygulama Hakkında" />
+    <item
+        android:id="@+id/mainActivity"
+        android:title="Çıkış Yap" />
+</menu>

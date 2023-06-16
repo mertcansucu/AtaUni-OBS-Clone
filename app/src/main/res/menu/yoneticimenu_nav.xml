@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dersGoruntelemeEklemeFragment"
+        android:title="Ders Görünteleme ve Ekleme"
+        />
+    <item
+        android:id="@+id/ogrenciOnayiFragment"
+        android:title="Öğrenci Onayı"
+        />
+    <item
+        android:id="@+id/ogretim_onayiFragment"
+        android:title="Öğretim Üyesi/Görevlisi Onayı" />
+    <item
+        android:id="@+id/yemek_listesiFragment"
+        android:title="Yemek Listesi" />
+    <item
+        android:id="@+id/duyurularFragment"
+        android:title="Duyurular" />
+    <item
+        android:id="@+id/uygulama_hakkindaFragment"
+        android:title="Uygulama Hakkında" />
+    <item
+        android:id="@+id/yonetici_giris"
+        android:title="Çıkış Yap" />
+</menu>
