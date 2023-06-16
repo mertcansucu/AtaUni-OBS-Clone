@@ -1,2 +1,2 @@
 # AtaUni-OBS-Clone
-Atatürk Üniversitesi OBS (Öğrenci Bilgi Sistemi) Clone Mobil Uygulama Projesi
+Kotlin tabanlı Atatürk Üniversitesi OBS (Öğrenci Bilgi Sistemi) Clone Mobil Uygulama Projesi
